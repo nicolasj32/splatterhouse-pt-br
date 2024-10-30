@@ -6,6 +6,7 @@ Localização feita por fã para português brasileiro do vídeogame "Splatterho
 - Xbox 360 **RGH** (*ou emulador **Xenia***)
 - Splatterhouse **(Versão 1.0, Americana)** em **formato XEX** (*"em pastas"*)
 - **( OPCIONAL )** [Horizon](https://www.wemod.com/pt/horizon) (*Ideal para instalar DLCs; Exclusivo ao Windows*)
+
 ### Instalando a Tradução ( Console / Emulador )
 > Certifique-se de que o jogo está em **formato XEX**, ou seja, em formato de **pastas abertas** (não é ISO ou GOD);
 1. Copie o conteúdo da pasta "Tradução Splatterhouse" e cole no diretório raíz do jogo (pasta onde se encontra o *default.xex*);
@@ -13,6 +14,7 @@ Localização feita por fã para português brasileiro do vídeogame "Splatterho
 3. **(Xbox 360)** Passe o jogo para o console com algum dispositivo removível de armazenamento;
     3. 1 || **(Xenia)** Defina a pasta onde está o jogo no emulador;
 4. Jogue!
+
 ### ( OPCIONAL ) Instalar DLCs Traduzidas - Windows para Xbox 360
 1. Tenha um **Pen-Drive** ou **HD Externo** conectado ao computador (**Windows**);
 2. Baixe e instale o **[Horizon](https://www.wemod.com/pt/horizon)**, programa ideal para **passar DLCs**, Updates e afins para o console;
@@ -24,6 +26,7 @@ Localização feita por fã para português brasileiro do vídeogame "Splatterho
 7. Jogue, agora com as DLCs traduzidas!
 
 ## INSTALAÇÃO - PlayStation 3
+
 ### Necessário:
 - Playstation 3 **Desbloqueado** (*ou emulador **RPCS3***)
 - Splatterhouse **(Versão 1.0, Americana, BLUS30335)** em ***formato de pastas***
