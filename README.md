@@ -58,5 +58,5 @@ Localização feita por fã para português brasileiro do vídeogame "Splatterho
 # CONTATO
 ### Para solicitar suporte, relatar problemas ou sugestões:
 | **Youtube:** @niccbilac
-----
+
 | **Discord:** @newcoulas
