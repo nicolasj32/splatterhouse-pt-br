@@ -22,7 +22,7 @@ Localização feita por fã para português brasileiro do vídeogame "Splatterho
 4. Selecione todo o conteúdo da pasta "Tradução DLC" e arraste para a janela do Horizon, na barra inferior direita onde se especifica o dispostivo a ser usado;
 5. Aguarde a conclusão da passagem de arquivos e então feche o programa;
 6. Remova seu dispositivo de armazenamento do computador e insira no seu console;
-    6. 1 || Deixe as DLCs onde está instalado seu Splatterhouse. Se não é no mesmo Pen-Drive / HD Externo, passe as DLCs para o dispositivo onde está o jogo.
+6. 1 || Deixe as DLCs onde está instalado seu Splatterhouse. Se não é no mesmo Pen-Drive / HD Externo, passe as DLCs para o dispositivo onde está o jogo.
 7. Jogue, agora com as DLCs traduzidas!
 
 # INSTALAÇÃO - PlayStation 3
