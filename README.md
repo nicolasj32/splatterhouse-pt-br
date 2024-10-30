@@ -12,7 +12,7 @@ Localização feita por fã para português brasileiro do vídeogame "Splatterho
 1. Copie o conteúdo da pasta "Tradução Splatterhouse" e cole no diretório raíz do jogo (pasta onde se encontra o *default.xex*);
 2. Permita a substituição dos arquivos;
 3. **(Xbox 360)** Passe o jogo para o console com algum dispositivo removível de armazenamento;
-    3. 1 || **(Xenia)** Defina a pasta onde está o jogo no emulador;
+3. 1 || **(Xenia)** Defina a pasta onde está o jogo no emulador;
 4. Jogue!
 
 ### ( OPCIONAL ) Instalar DLCs Traduzidas - Windows para Xbox 360
