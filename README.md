@@ -1,13 +1,23 @@
-## SPLATTERHOUSE (2010) - Tradução PT-BR
+# SPLATTERHOUSE (2010) - Fã-Tradução PT-BR
 Localização feita por fã para português brasileiro do vídeogame "Splatterhouse" de Xbox 360 e Playstation 3.
+Este projeto traduz todos os textos do jogo visando ser a melhor adaptação para português brasileiro.
 
-### INSTALAÇÃO - Xbox 360
-#### Necessário:
-- Xbox 360 **RGH** (*ou emulador **Xenia***)
+Isto não seria possível sem o suporte técnico dos tradutores **Leonam Miiler** e **HeitorSpectre**, como também não teria um título adaptado se não fosse o músico e também fã de Splatterhouse, **Marco Spessoto**.
+
+#### A tradução inclui:
+- Título adaptado
+- Menus (Principal, tela de movimentos, estatísticas, nomes de fases, máscaras)
+- Cinemáticas (*cutscenes*)
+- Diário e Álbum de Fotos
+- Conteúdos Adicionais (DLCs)
+---
+## INSTALAÇÃO - Xbox 360
+### NECESSÁRIO
+- Xbox *360 **RGH** (*ou emulador **Xenia***)
 - Splatterhouse **(Versão 1.0, Americana)** em **formato XEX** (*"em pastas"*)
 - **( OPCIONAL )** [Horizon](https://www.wemod.com/pt/horizon) (*Ideal para instalar DLCs; Exclusivo ao Windows*)
 
-### Instalando a Tradução ( Console / Emulador )
+### INSTALAÇÃO ( Console / Emulador )
 > Certifique-se de que o jogo está em **formato XEX**, ou seja, em formato de **pastas abertas** (não é ISO ou GOD);
 1. Copie o conteúdo da pasta "Tradução Splatterhouse" e cole no diretório raíz do jogo (pasta onde se encontra o *default.xex*);
 2. Permita a substituição dos arquivos;
@@ -15,7 +25,7 @@ Localização feita por fã para português brasileiro do vídeogame "Splatterho
 3. 1 || **(Xenia)** Defina a pasta onde está o jogo no emulador;
 4. Jogue!
 
-### ( OPCIONAL ) Instalar DLCs Traduzidas - Windows para Xbox 360
+#### ( OPCIONAL ) Instalar DLCs Traduzidas - Windows para Xbox 360
 1. Tenha um **Pen-Drive** ou **HD Externo** conectado ao computador (**Windows**);
 2. Baixe e instale o **[Horizon](https://www.wemod.com/pt/horizon)**, programa ideal para **passar DLCs**, Updates e afins para o console;
 3. Abra o **Horizon**;
@@ -24,10 +34,9 @@ Localização feita por fã para português brasileiro do vídeogame "Splatterho
 6. Remova seu dispositivo de armazenamento do computador e insira no seu console;
 6. 1 || Deixe as DLCs onde está instalado seu Splatterhouse. Se não é no mesmo Pen-Drive / HD Externo, passe as DLCs para o dispositivo onde está o jogo.
 7. Jogue, agora com as DLCs traduzidas!
-
-# INSTALAÇÃO - PlayStation 3
-
-## Necessário:
+---
+## INSTALAÇÃO - PlayStation 3
+#### NECESSÁRIO
 - Playstation 3 **Desbloqueado** (*ou emulador **RPCS3***)
 - Splatterhouse **(Versão 1.0, Americana, BLUS30335)** em ***formato de pastas***
 - Algum programa de **patching** com suporte a ***.xdelta*** (**Windows, Linux, iOS:** [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) || **Android:** [UniPatcher](https://play.google.com/store/apps/details?id=org.emunix.unipatcher))
