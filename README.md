@@ -1,4 +1,4 @@
-# SPLATTERHOUSE (2010) - Fã-Tradução PT-BR
+# SPLATTERHOUSE (2010) - Fã-Tradução PT-BR - teste
 Localização feita por fã para português brasileiro do vídeogame "Splatterhouse" de Xbox 360 e Playstation 3.
 Este projeto traduz todos os textos do jogo visando ser a melhor adaptação para português brasileiro.
 
