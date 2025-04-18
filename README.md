@@ -9,6 +9,9 @@
 Todos os textos, incluindo cinemáticas, descrições e menus foram traduzidos para português brasileiro.  
 A versão 1.1 resolve problemas de crash nas versões Xbox 360 e PS3.
 
+## *Preview* no YouTube (clique na imagem)
+[![Assista ao Vídeo de Demonstração](https://img.youtube.com/vi/9AWud2ygGRM/maxresdefault.jpg)](https://www.youtube.com/watch?v=9AWud2ygGRM)
+
 
 ## Requisitos
 
@@ -29,7 +32,10 @@ A versão 1.1 resolve problemas de crash nas versões Xbox 360 e PS3.
 
 ## Instalação
 
-> Baixe a tradução nos *releases*: [Versão 1.1](https://github.com/nicolasj32/splatterhouse-pt-br/releases/tag/v1.1)
+- Baixe a tradução nos *releases*: [Versão 1.1](https://github.com/nicolasj32/splatterhouse-pt-br/releases/tag/v1.1):
+- Tradução também disponível no site João 13 Traduções (A INSTALAÇÃO PODE VARIAR):
+    - [[X360] Splatterhouse v1.1 (Niccbilac e cia)](https://joao13traducoes.com/2024/09/x360-splatterhouse-niccbilac-e-cia/)
+    - [[PS3] Splatterhouse v1.1 (Niccbilac e cia)](https://joao13traducoes.com/2024/10/ps3-splatterhouse-niccbilac-e-cia/)
 
 > **Importante:** o jogo deve estar em **formato de pastas**.
 
@@ -53,12 +59,13 @@ A versão 1.1 resolve problemas de crash nas versões Xbox 360 e PS3.
 
 ## Créditos
 
-| Administração | Suporte e Testes | Tradução Livre | Apoio          |
-| ------------- | ---------------- | -------------- | -------------- |
-| Niccbilac     | Leonam Miiller   | Marco Spessoto | XEX Brasil     |
-|               | HeitorSpectre    |                | Central do PS3 |
+| Administração | Suporte e Testes | Tradução Livre | Apoio, Divulgação |
+| ------------- | ---------------- | -------------- | ----------------- |
+| Niccbilac     | Leonam Miiller   | Marco Spessoto | XEX Brasil        |
+|               | HeitorSpectre    |                | Central do PS3    |
+|               |                  |                | João13            |
 
-## Contato
+## Contato, sugestões e/ou críticas:
 
 - [Issues no GitHub](https://github.com/nicolasj32/splatterhouse-pt-br/issues)
 - [Discord - @newcoulas](https://discord.gg/nGpw4Hqv)
